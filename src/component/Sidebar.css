@@ -1,0 +1,13 @@
+.sidebar_main {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.sidebar_main div {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+}
+.home {
+  font-weight: bold;
+}

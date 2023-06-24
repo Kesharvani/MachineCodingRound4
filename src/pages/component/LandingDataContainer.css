@@ -1,0 +1,12 @@
+.post_card_wrapper {
+  display: flex;
+  gap: 0.7rem;
+}
+#tag_wrapper {
+  display: flex;
+  gap: 0.3rem;
+}
+.comment_share_bookmark_wrapper {
+  display: flex;
+  justify-content: space-between;
+}

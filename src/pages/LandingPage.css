@@ -1,0 +1,11 @@
+.landing_page_wrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  gap: 4rem;
+}
+.sidebar_wrapper {
+  position: relative;
+  top: 0;
+  left: 1rem;
+}
